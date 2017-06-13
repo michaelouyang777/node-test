@@ -1,6 +1,6 @@
 "use strict";
-
-const http = require('http');
+import http from './http';
+//const http = require('http');
 const fs = require('fs');
 const url = require('url');
 const crypto = require('crypto');
